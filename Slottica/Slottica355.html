@@ -1,0 +1,68 @@
+<html data-lt-installed="true" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office"
+    xmlns:v="urn:schemas-microsoft-com:vml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>slottica</title>
+</head>
+
+<body>
+    <div style="width: 100% !important;display:flex;justify-content: center;">
+        <div class="EmailContentContainer"
+            style="max-width: 640px !important;width: 100% !important;padding:28px 0px;display:grid;grid-template-columns: 40% 57%;grid-auto-rows: minmax(40px, auto);justify-content: space-between;">
+
+            <img class="EmailBanner" src="https://thiscrm.co/upload/images/slot14.04/Bg.png"
+                style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%;display: block;grid-column: 1; grid-row: 1 / 4;" />
+
+            <p class="EmailTitle"
+                style="font-family: Roboto;font-size: 14px; line-height: 20px; word-break: break-word; text-align: left; mso-line-height-alt: 17px; margin: 0;color: #000000; grid-column: 2; grid-row: 1;">
+                Навесні зявляється багато енергії. Виплесніть її в турнірі «Easter Cash Splash» від Booongo із
+                шаленим фондом у 2,750,000₴</p>
+            <p class="EmailText"
+                style="font-size: 14px;font-family: Roboto; line-height: 20px; word-break: break-word; text-align: left; mso-line-height-alt: 17px; margin: 0;color: #6A7077; grid-column: 2; grid-row: 2;align-self: center;">
+                Поповнюйте рахунок та беріть участь в наших акціях!</p>
+            <div class="EmaiBtn" style="grid-column: 2; grid-row: 3;align-self: end;">
+                <a href="/"
+                    style="display: inline-block;text-decoration:none; background: linear-gradient(135deg, #6C8DFF 0%, #1044FF 100%);border-radius:45px;width:auto;min-width: 133px;min-height: 40px;">
+                    <span
+                        style="font-family: Roboto;display: inline-block;padding: 12px 21px;font-weight: 500;font-size: 12px; line-height: 16px; color: white;">Пополнить
+                        счёт</span></a>
+            </div>
+        </div>
+    </div>
+    <script>
+        const mediaQuery = window.matchMedia("(max-width: 640px)")
+        let emailContentContainer = document.querySelector(".EmailContentContainer");
+        let emailBanner = document.querySelector(".EmailBanner");
+        let emailTitle = document.querySelector(".EmailTitle");
+        let emailText = document.querySelector(".EmailText");
+        let emaiBtn = document.querySelector(".EmaiBtn");
+        function adaptabilityFunction(mediaQuery) {
+            if (mediaQuery.matches) { 
+                emailContentContainer.style.padding = '10px';
+                emailBanner.style.gridRow = '1';
+                emailTitle.style.gridRow = '2';
+                emailTitle.style.gridColumn = '1 / 3';
+                emailTitle.style.padding = '15px 0px';
+                emailText.style.gridRow = '1';
+                emailText.style.gridColumn = '2';
+                emaiBtn.style.gridColumn = '1 / 3';
+            } else {
+                emailContentContainer.style.padding = '28px 0px';
+                emailBanner.style.gridRow = '1 / 4';
+                emailTitle.style.gridRow = '1';
+                emailTitle.style.gridColumn = '2';
+                emailTitle.style.padding = '0px';
+                emailText.style.gridRow = '2';
+                emailText.style.gridColumn = '2';
+                emaiBtn.style.gridColumn = '2';
+            }
+        }
+        adaptabilityFunction(mediaQuery);
+        mediaQuery.addListener(adaptabilityFunction);
+    </script>
+</body>
+
+</html>

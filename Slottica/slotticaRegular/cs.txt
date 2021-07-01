@@ -1,0 +1,523 @@
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html data-lt-installed="true" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office"
+	xmlns:v="urn:schemas-microsoft-com:vml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>slottica</title>
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+		body {
+			margin: 0;
+			padding: 0
+		}
+
+		table,
+		td,
+		tr {
+			vertical-align: top;
+			border-collapse: collapse
+		}
+
+		* {
+			line-height: inherit
+		}
+
+		a[x-apple-data-detectors=true] {
+			color: inherit !important;
+			text-decoration: none !important
+		}
+	</style>
+	<style id="media-query" type="text/css">
+		@media (max-width:620px) {
+
+			.block-grid,
+			.col {
+				min-width: 320px !important;
+				max-width: 100% !important;
+				display: block !important
+			}
+
+			.block-grid {
+				width: 100% !important
+			}
+
+			.col {
+				width: 100% !important
+			}
+
+			.col_cont {
+				margin: 0 auto
+			}
+
+			img.fullwidth,
+			img.fullwidthOnMobile {
+				max-width: 100% !important
+			}
+
+			.no-stack .col {
+				min-width: 0 !important;
+				display: table-cell !important
+			}
+
+			.no-stack.two-up .col {
+				width: 50% !important
+			}
+
+			.no-stack .col.num2 {
+				width: 16.6% !important
+			}
+
+			.no-stack .col.num3 {
+				width: 25% !important
+			}
+
+			.no-stack .col.num4 {
+				width: 33% !important
+			}
+
+			.no-stack .col.num5 {
+				width: 41.6% !important
+			}
+
+			.no-stack .col.num6 {
+				width: 50% !important
+			}
+
+			.no-stack .col.num7 {
+				width: 58.3% !important
+			}
+
+			.no-stack .col.num8 {
+				width: 66.6% !important
+			}
+
+			.no-stack .col.num9 {
+				width: 75% !important
+			}
+
+			.no-stack .col.num10 {
+				width: 83.3% !important
+			}
+
+			.video-block {
+				max-width: none !important
+			}
+
+			.mobile_hide {
+				min-height: 0px;
+				max-height: 0px;
+				max-width: 0;
+				display: none;
+				overflow: hidden;
+				font-size: 0px
+			}
+
+			.desktop_hide {
+				display: block !important;
+				max-height: none !important
+			}
+		}
+
+		@media (max-width:500px) {
+			.main-bg {
+				background-image: url('https://thiscrm.co/upload/images/slot14.04/splash_background%201-1.png') !important;
+				background-position: center !important;
+				background-size: cover !important
+			}
+
+			.text8 {
+				display: table-footer-group !important
+			}
+
+			.img4 {
+				display: table-header-group !important
+			}
+
+			.button-container,
+			.tc {
+				text-align: center !important
+			}
+
+			.bottom-bg {
+				background-image: url('https://thiscrm.co/upload/images/slot14.04/White%20Bg-1.png') !important;
+				background-size: cover !important
+			}
+
+			.padd0 {
+				padding: 5px !important
+			}
+
+			.text-c {
+				text-align: center !important
+			}
+
+			.padd30 {
+				padding-bottom: 30px !important
+			}
+
+			.contacts {
+				padding: 0 !important
+			}
+
+			.imgmarg {
+				margin-left: 0 !important;
+				margin-top: 10px !important;
+				padding: 0 !important;
+				float: right !important
+			}
+
+			.imgmarg2 {
+				margin-left: 0 !important;
+				margin-top: 10px !important;
+				padding: 0 !important;
+				float: left !important
+			}
+
+			.cont1 {
+				float: left !important;
+				width: 30% !important;
+				padding: 0 !important
+			}
+
+			.cont3 {
+				float: left !important;
+				width: 30% !important;
+				padding: 0 !important
+			}
+
+			.cont2 {
+				float: left !important;
+				width: 45% !important;
+				padding-top: 6px !important;
+				padding-left: 6px !important
+			}
+
+			.cont4 {
+				float: left !important;
+				width: 45% !important;
+				padding-top: 8px !important;
+				padding-left: 6px !important
+			}
+		}
+	</style>
+</head>
+
+<body class="clean-body" data-gr-ext-installed="" data-new-gr-c-s-check-loaded="14.1006.0"
+	style="margin: 0; padding: 0; -webkit-text-size-adjust: 100%; background-color: #FFFFFF;">
+	<div itemscope="" itemtype="http://schema.org/Organization">
+		<meta itemprop="logo" content="https://thiscrm.co/upload/images/logo/luckybird.png">
+	</div>
+
+	<div itemscope="" itemtype="http://schema.org/DiscountOffer">
+		<meta itemprop="description" content="Перейти на сайт">
+	</div>
+
+	<div itemscope="" itemtype="http://schema.org/PromotionCard">
+		<meta itemprop="image" content="https://thiscrm.co/upload/images/8c1f9a33a5ee60fb90e1ba3d27d2c148.jpeg">
+	</div>
+	<table bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" class="nl-container" role="presentation"
+		style="table-layout: fixed; vertical-align: top; min-width: 320px; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #FFFFFF; width: 100%;"
+		valign="top" width="100%">
+		<tbody>
+			<tr style="vertical-align: top;" valign="top">
+				<td style="word-break: break-word; vertical-align: top;" valign="top">
+					<div style="background-color:transparent;">
+						<div class="block-grid "
+							style="min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; Margin: 0 auto; background-color: transparent;">
+							<div class="main-bg"
+								style="border-collapse: collapse;display: block;width: 100%;background-color:transparent;background-image:url('https://thiscrm.co/upload/images/slot14.04/splash_background%201.png');background-position:top;background-repeat:no-repeat">
+								<div
+									style="border-collapse: collapse;display: table;width: 100%;background-image:url('https://thiscrm.co/upload/images/slot14.04/White%20Bg-3.png');background-position:top;background-repeat:no-repeat;">
+									<div class="col num12"
+										style="min-width: 320px; max-width: 600px; display: table-cell; vertical-align: top; width: 600px;">
+										<div class="col_cont" style="width:100% !important;">
+											<div
+												style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:20px; padding-bottom:40px; padding-right: 0px; padding-left: 0px;">
+												<div align="center" class="img-container center autowidth"
+													style="padding-right: 0px;padding-left: 0px;"><a
+														href="https://slottica.com/" style="outline:none" tabindex="-1"
+														target="_blank"><img align="middle" alt="Slottica" border="0"
+															class="center autowidth"
+															src="https://thiscrm.co/upload/images/slottica-logo.png"
+															style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 150px; display: block;"
+															title="Slottica" width="150px" /></a></div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div style="display: block;padding:10px 25px 10px 25px;">
+									<div
+										style="display: block;width: 100%;background: linear-gradient(34.5deg, #A8BBFF 16.15%, #1044FF 74.95%);border-radius: 17px;">
+										<div class="col num8 text8"
+											style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 350px; width: 350px; direction: ltr;">
+											<div class="col_cont" style="width:100% !important;">
+												<div
+													style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 10px; padding-left: 10px;">
+													<div
+														style="color:#0068a5;font-family:Roboto, Tahoma, Verdana, Segoe, sans-serif;line-height:1.2;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
+														<div class="txtTinyMce-wrapper"
+															style="line-height: 1.2; font-size: 18px; color: #FFFFFF; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; mso-line-height-alt: 14px;">
+															<p
+																style="font-size: 18px; line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0;">
+																<strong><span
+																		style="font-size: 18px;">{header1}</span></strong>
+															</p>
+														</div>
+													</div>
+
+													<div
+														style="color:#2e3073;font-family:Roboto, Tahoma, Verdana, Segoe, sans-serif;line-height:1.2;padding-bottom:10px;padding-left:10px;">
+														<div class="txtTinyMce-wrapper"
+															style="line-height: 1.2; font-size: 12px; color: #FFFFFF; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; mso-line-height-alt: 16px;">
+															{text1}
+														</div>
+													</div>
+
+													<div align="left" class="button-container"
+														style="padding-top:10px;padding-bottom:10px;padding-left:10px;">
+														<a href="https://sendgrid.com/"
+															style="text-decoration:none;display:inline-block;color:#ffffff;background-color:#1245ff;border-radius:25px;-webkit-border-radius:25px;-moz-border-radius:25px;width:auto; width:auto;;border-top:0px solid #8a3b8f;border-right:0px solid #8a3b8f;border-bottom:0px solid #8a3b8f;border-left:0px solid #8a3b8f;padding-top:5px;padding-bottom:5px;font-family:Roboto, Tahoma, Verdana, Segoe, sans-serif;text-align:center;mso-border-alt:none;word-break:keep-all;">
+															<span
+																style="padding-left:40px;padding-right:40px;font-size:16px;display:inline-block;letter-spacing:undefined;"><span
+																	style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px;">{button_name1}</span></span>
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<div class="col num4 img4"
+											style="display: table-cell; vertical-align: middle; max-width: 320px; min-width: 200px; width: 200px; direction: ltr;">
+											<div class="col_cont" style="width:100% !important;">
+												<div
+													style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+													<div align="center" class="img-container center autowidth"
+														style="padding-right: 0px;padding-left: 0px;"><a
+															href="https://sendgrid.com/"><img align="middle" border="0"
+																class="center autowidth" src="{banner1}"
+																style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 174px; display: block;"
+																width="174" /></a></div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div style="display: block;padding:10px 25px 10px 25px;">
+									<div
+										style="display: block;width: 100%;background: linear-gradient(34.5deg, #A8BBFF 16.15%, #1044FF 74.95%);border-radius: 17px;">
+										<div class="col num8 text8"
+											style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 350px; width: 350px; direction: ltr;">
+											<div class="col_cont" style="width:100% !important;">
+												<div
+													style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 10px; padding-left: 10px;">
+													<div
+														style="color:#0068a5;font-family:Roboto, Tahoma, Verdana, Segoe, sans-serif;line-height:1.2;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
+														<div class="txtTinyMce-wrapper"
+															style="line-height: 1.2; font-size: 12px; color: #FFFFFF; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; mso-line-height-alt: 14px;">
+															<p
+																style="font-size: 14px; line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0;">
+																<strong><span
+																		style="font-size: 18px;">{header2}</span></strong>
+															</p>
+														</div>
+													</div>
+
+													<div
+														style="color:#2e3073;font-family:Roboto, Tahoma, Verdana, Segoe, sans-serif;line-height:1.2;padding-bottom:10px;padding-left:10px;">
+														<div class="txtTinyMce-wrapper"
+															style="line-height: 1.2; font-size: 12px; color: #FFFFFF; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; mso-line-height-alt: 14px;">
+															{text2}
+														</div>
+													</div>
+
+													<div align="left" class="button-container"
+														style="padding-top:10px;padding-bottom:10px;padding-left:10px;">
+														<a href="https://sendgrid.com/"
+															style="text-decoration:none;display:inline-block;color:#ffffff;background-color:#1245ff;border-radius:25px;-webkit-border-radius:25px;-moz-border-radius:25px;width:auto; width:auto;;border-top:0px solid #8a3b8f;border-right:0px solid #8a3b8f;border-bottom:0px solid #8a3b8f;border-left:0px solid #8a3b8f;padding-top:5px;padding-bottom:5px;font-family:Roboto, Tahoma, Verdana, Segoe, sans-serif;text-align:center;mso-border-alt:none;word-break:keep-all;">
+															<span
+																style="padding-left:40px;padding-right:40px;font-size:16px;display:inline-block;letter-spacing:undefined;"><span
+																	style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px;">{button_name2}</span></span>
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<div class="col num4 img4"
+											style="display: table-cell; vertical-align: middle; max-width: 320px; min-width: 200px; width: 200px; direction: ltr;">
+											<div class="col_cont" style="width:100% !important;">
+												<div
+													style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+													<div align="center" class="img-container center autowidth"
+														style="padding-right: 0px;padding-left: 0px;"><a
+															href="https://sendgrid.com/"><img align="middle" border="0"
+																class="center autowidth" src="{banner2}"
+																style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 200px; display: block;"
+																width="200" /></a></div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div style="display: block;padding:10px 25px 10px 25px;">
+									<div
+										style="display: block;width: 100%;background: linear-gradient(34.5deg, #A8BBFF 16.15%, #1044FF 74.95%);border-radius: 17px;">
+										<div class="col num8 text8"
+											style="display: table-cell; vertical-align: top; max-width: 320px; min-width: 350px; width: 350px; direction: ltr;">
+											<div class="col_cont" style="width:100% !important;">
+												<div
+													style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:30px; padding-bottom:30px; padding-right: 10px; padding-left: 10px;">
+													<div
+														style="color:#0068a5;font-family:Roboto, Tahoma, Verdana, Segoe, sans-serif;line-height:1.2;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
+														<div class="txtTinyMce-wrapper"
+															style="line-height: 1.2; font-size: 12px; color: #FFFFFF; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; mso-line-height-alt: 14px;">
+															<p
+																style="font-size: 14px; line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0;">
+																<strong><span
+																		style="font-size: 18px;">{header3}</span></strong>
+															</p>
+														</div>
+													</div>
+
+													<div
+														style="color:#2e3073;font-family:Roboto, Tahoma, Verdana, Segoe, sans-serif;line-height:1.2;padding-bottom:10px;padding-left:10px;">
+														<div class="txtTinyMce-wrapper"
+															style="line-height: 1.2; font-size: 12px; color: #FFFFFF; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; mso-line-height-alt: 14px;">
+															{text3}
+														</div>
+													</div>
+
+													<div align="left" class="button-container"
+														style="padding-top:10px;padding-bottom:10px;padding-left:10px;">
+														<a href="https://sendgrid.com/"
+															style="text-decoration:none;display:inline-block;color:#ffffff;background-color:#1245ff;border-radius:25px;-webkit-border-radius:25px;-moz-border-radius:25px;width:auto; width:auto;;border-top:0px solid #8a3b8f;border-right:0px solid #8a3b8f;border-bottom:0px solid #8a3b8f;border-left:0px solid #8a3b8f;padding-top:5px;padding-bottom:5px;font-family:Roboto, Tahoma, Verdana, Segoe, sans-serif;text-align:center;mso-border-alt:none;word-break:keep-all;">
+															<span
+																style="padding-left:40px;padding-right:40px;font-size:16px;display:inline-block;letter-spacing:undefined;"><span
+																	style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px;">{button_name3}</span></span>
+														</a>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<div class="col num4 img4"
+											style="display: table-cell; vertical-align: middle; max-width: 320px; min-width: 200px; width: 200px; direction: ltr;">
+											<div class="col_cont" style="width:100% !important;">
+												<div
+													style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+													<div align="center" class="img-container center autowidth"
+														style="padding-right: 0px;padding-left: 0px;"><a
+															href="https://sendgrid.com/"><img align="middle" border="0"
+																class="center autowidth" src="{banner3}"
+																style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 183px; display: block;"
+																width="183" /></a></div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div style="background-color:transparent;">
+									<div class="col_cont" style="width:100% !important;">
+										<div
+											style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+											<div class="padd0"
+												style="color:#2e3073;font-family:Roboto, Tahoma, Verdana, Segoe, sans-serif;line-height:1.2;padding-top:30px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
+												<div class="txtTinyMce-wrapper"
+													style="line-height: 1.2; font-size: 12px; color: #52575C; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; mso-line-height-alt: 14px;">
+													<p class="contacts"
+														style="font-size: 14px; line-height: 1.2; word-break: break-word; text-align: center; mso-line-height-alt: 17px; margin: 0;">
+														Máte-li jakékoli dotazy, neváhejte nás kontaktovat
+														prostřednictvím:</p>
+												</div>
+											</div>
+										</div>
+									</div>
+
+									<div
+										style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+										<div class="col contacts"
+											style="display:table-cell;vertical-align:top;width:50%;float:right;min-width: 194px;">
+											<div align="right" class="img-container right autowidth cont1"
+												style="padding-right: 3px;padding-left:10px;display: table-cell;"><img
+													align="right" border="0" class="right autowidth"
+													src="https://thiscrm.co/upload/images/slot14.04/icon.png"
+													style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0;width: 30px; float: none; display: block;"
+													width="30" /></div>
+
+											<div class="cont2"
+												style="color:#2e3073;font-family:Roboto, Tahoma, Verdana, Segoe, sans-serif;line-height:1.2; display: table-cell;vertical-align: middle;width:170px;">
+												<div class="txtTinyMce-wrapper"
+													style="line-height: 1.2; font-size: 12px; color: #52575C; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; mso-line-height-alt: 14px;">
+													<p
+														style="font-size: 14px; line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0;white-space: nowrap;">
+														support@slotica.email</p>
+												</div>
+											</div>
+										</div>
+
+										<div class="col"
+											style="display:table-cell;vertical-align:top;width:49%;text-align: center;">
+											<div align="right" class="img-container right autowidth cont3"
+												style="padding-right: 3px;padding-left: 13px;display: table-cell;"><img
+													align="right" border="0" class="right autowidth imgmarg"
+													src="https://thiscrm.co/upload/images/slot14.04/icon2.png"
+													style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0;width: 30px; float: left; display: block;"
+													width="30" /></div>
+
+											<div class="cont4"
+												style="color:#2e3073;font-family:Roboto, Tahoma, Verdana, Segoe, sans-serif;line-height:1.2; display: table-cell;vertical-align: middle;">
+												<div class="txtTinyMce-wrapper imgmarg2"
+													style="line-height: 1.2; font-size: 12px; color: #52575C; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; mso-line-height-alt: 14px;">
+													<p
+														style="font-size: 14px; line-height: 1.2; word-break: break-word; mso-line-height-alt: 17px; margin: 0;">
+														442033185141</p>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div style="background-color:transparent;">
+									<div
+										style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+										<div class="col_cont" style="width:100% !important;">
+											<div
+												style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
+												<div
+													style="color:#393d47;font-family:Roboto, Tahoma, Verdana, Segoe, sans-serif;line-height:1.2;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
+													<div class="txtTinyMce-wrapper"
+														style="line-height: 1.2; font-size: 12px; color: #52575C; font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif; mso-line-height-alt: 14px;">
+														<p
+															style="font-size: 12px; line-height: 1.2; word-break: break-word; text-align: center; mso-line-height-alt: 17px; margin: 0;">
+															Tento e-mail jste obdrželi, protože jste se zaregistrovali
+															na webové stránce Slottica a vyjádřili jste souhlas s
+															Podmínkami.</p>
+														<p
+															style="font-size: 12px; line-height: 1.2; word-break: break-word; text-align: center; mso-line-height-alt: 17px; margin: 0;">
+															Pokud chcete odběr zpravodaje zrušit, klikněte na <a
+																href="https://slottica.com/"
+																style="text-decoration:none;">odkaz</a></p>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+
+</html>
